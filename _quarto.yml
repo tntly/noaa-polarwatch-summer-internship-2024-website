@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "coast24"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+  sidebar:
+    background: "#D9E3E8"
+    logo: "images/coastwatch.png "
+    favicon: images/coastwatch.png 
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://coastwatch.noaa.gov
+        text: "Openscapes.org"
+      - icon: github
+        href: https://github.com/coastwatch-training
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Main
+      - section: Upcoming Trainings
+        contents:
+        - href: courses/afs24.md
+          text: 2024 AFS Workshop
+        - href: courses/seaice24.md      
+          text: 2024 Sea Ice Data Course
+      - section: Past Trainings
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
