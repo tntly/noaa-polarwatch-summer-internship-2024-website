@@ -1,7 +1,7 @@
 ---
 title: "Home"
 ---
-# Welcome to My Internship Journey
+## Welcome to My Internship Journey
 This website showcases my work as a Satellite Data Scientist Intern at NOAA CoastWatch's PolarWatch Node during the summer of 2024. It highlights my learning experiences and contributions, including analyzing sea ice concentration data, applying machine learning models, and developing tools for satellite data processing.
 
 ## Internship Overview
