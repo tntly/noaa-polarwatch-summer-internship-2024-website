@@ -1,0 +1,27 @@
+---
+title: "Milestone 1: Foundations of Satellite Data"
+---
+
+## Summary
+In this milestone, I focused on learning the foundational tools and methodologies for working with satellite data. I explored key satellite datasets and became proficient in accessing and manipulating this data.
+
+## Key Objectives
+- Learn to access satellite data through the ERDDAP data server
+- Develop skills in using Python for data manipulation
+- Understand the basics of sea ice data and its applications
+
+## Tasks and Methods
+- Accessed and explored the NOAA/NSIDC sea ice concentration dataset
+- Developed Python scripts using the xarray library to handle and manipulate large datasets
+- Documented the process in a Jupyter notebook, including tutorials and examples
+
+## Results and Findings
+- Successfully accessed sea ice data
+- Gained insights into the seasonal variability of sea ice properties from 1978 to present
+
+## Challenges and Learnings
+- It was challenging to process the large datasets efficiently on my local machine.
+- Learning xarray and ERDDAP was a critical part of this milestone.
+
+## Next Steps
+- Move on to visualizing and analyzing the sea ice concentration data in more detail in Milestone 2

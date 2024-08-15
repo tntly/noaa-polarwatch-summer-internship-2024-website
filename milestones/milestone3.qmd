@@ -1,0 +1,26 @@
+---
+title: "Milestone 3: Sea Ice Concentration Trends and Anomalies"
+---
+## Summary
+In this milestone, I focused on analyzing sea ice concentration anomalies and trends for 2023 compared to a climatological baseline. This involved statistical analysis and visualization of anomalies.
+
+## Key Objectives
+- Compare 2023 sea ice concentration with the 2006-2020 climatology
+- Identify and visualize significant anomalies and trends for 2023
+- Perform a statistical analysis to detect significant changes
+
+## Tasks and Methods
+- Computed weekly climatology from daily data (2006-2020)
+- Identified weeks with significant anomalies and visualized them using polar projection maps
+- Conducted the Mann-Kendall test to determine trends
+
+## Results and Findings
+- Discovered significant negative anomalies in certain weeks, indicating reduced sea ice extent compared to the climatology
+- Visualized the largest anomalies in sea ice concentration using Cartopy
+
+## Challenges and Learnings
+- Implementing the Mann-Kendall test for trend detection was a new learning experience
+- Mapping anomalies clearly required fine-tuning of visualization parameters
+
+## Next Steps
+- Develop a machine learning model to predict sea ice extent in Milestone 4

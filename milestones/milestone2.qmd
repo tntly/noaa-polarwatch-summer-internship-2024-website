@@ -1,0 +1,26 @@
+---
+title: "Milestone 2: Data Analysis and Visualization"
+---
+## Summary
+This milestone focused on the analysis and visualization of sea ice concentration data. I explored spatial and temporal trends and developed visualization skills to present the data effectively.
+
+## Key Objectives
+- Explore spatial-temporal patterns in sea ice concentration
+- Develop visualizations to communicate findings effectively
+- Gain familiarity with satellite data visualization techniques
+
+## Tasks and Methods
+- Calculated weekly means of sea ice concentration for different periods using xarray
+- Visualized sea ice concentration using Python's Matplotlib and Cartopy libraries
+- Explored the seasonal variability of sea ice
+
+## Results and Findings
+- Visualized the changes in sea ice concentration for selected weeks across seasons
+- Discovered significant trends in sea ice extent reduction in the Arctic
+
+## Challenges and Learnings
+- Handling the large temporal scale of the dataset and optimizing visualizations
+- Developing clear, informative plot titles and axis labels to improve communication
+
+## Next Steps
+- Proceed to the analysis of sea ice anomalies and trends in Milestone 3

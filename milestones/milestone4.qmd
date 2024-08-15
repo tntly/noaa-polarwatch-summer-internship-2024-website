@@ -1,0 +1,27 @@
+---
+title: "Milestone 4: Machine Learning for Sea Ice Prediction"
+---
+## Summary
+This milestone involved building a machine learning model to predict sea ice extent using an LSTM network. The focus was on using sea ice thickness and atmospheric variables as predictors.
+
+## Key Objectives
+- Develop an LSTM-based model to predict monthly sea ice extent
+- Incorporate sea ice thickness data into the model
+- Evaluate the performance of the model on historical data
+
+## Tasks and Methods
+- Preprocessed the sea ice thickness data and merged it with other predictors
+- Implemented an LSTM network with an attention mechanism for better feature selection
+- Evaluated the model's performance on a holdout dataset
+
+## Results and Findings
+- Successfully developed and trained the LSTM model to predict sea ice extent with a 1-month lead time
+- The model captured significant trends in sea ice extent, although further tuning is needed for improved accuracy.
+
+## Challenges and Learnings
+- Preprocessing large datasets for machine learning posed challenges in ensuring consistency across variables
+- Implementing the attention mechanism was particularly useful for focusing on relevant features
+
+## Next Steps
+- Finalize the model and present findings to the team
+- Deploy the project and publish results on the project website
