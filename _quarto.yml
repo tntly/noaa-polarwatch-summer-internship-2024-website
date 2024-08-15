@@ -5,7 +5,9 @@ project:
 website:
   title: "CSU COAST Summer Internship 2024"
   sidebar:
-    background: "#D9E3E4"
+    background: "#D9E3E8"
+    pinned: true
+    align: center
     style: "docked"
     search: true
     collapse-level: 1
