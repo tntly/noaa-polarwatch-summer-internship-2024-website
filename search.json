@@ -332,7 +332,17 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This website showcases my work as a Satellite Data Scientist Intern at NOAA CoastWatch’s PolarWatch Node during the summer of 2024. It highlights my learning experiences and contributions, including analyzing sea ice concentration data, applying machine learning models, and developing tools for satellite data processing.\n\n\nDuring my internship, I worked on several projects related to sea ice data analysis:\n\nMilestone 1: Learned to access and manipulate satellite data\nMilestone 2: Conducted sea ice concentration analysis and visualized spatial-temporal data\nMilestone 3: Analyzed sea ice anomalies and trends in the Arctic\nMilestone 4: Developed a machine learning model to predict sea ice extent\n\n\n\n\nThis internship allowed me to work with:\n\nProgramming: Python, xarray, NumPy, Pandas\nData Visualization: Matplotlib, Seaborn\nMachine Learning: LSTM, Attention Mechanism\nDatasets: Sea Ice Concentration data from NOAA/NSIDC, atmospheric and oceanic datasets\n\n\n\n\nThis internship has been an incredible learning experience, deepening my understanding of climate science and machine learning applications. I look forward to further contributing to the field of satellite data analysis in the future.",
+    "text": "This website showcases my work as a Satellite Data Scientist Intern at NOAA CoastWatch’s PolarWatch Node during the summer of 2024. It highlights my learning experiences and contributions, including analyzing sea ice concentration data, applying machine learning models, and developing tools for satellite data processing.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome-to-my-internship-journey",
+    "href": "index.html#welcome-to-my-internship-journey",
+    "title": "Home",
+    "section": "",
+    "text": "This website showcases my work as a Satellite Data Scientist Intern at NOAA CoastWatch’s PolarWatch Node during the summer of 2024. It highlights my learning experiences and contributions, including analyzing sea ice concentration data, applying machine learning models, and developing tools for satellite data processing.",
     "crumbs": [
       "Home"
     ]
@@ -341,8 +351,8 @@
     "objectID": "index.html#internship-overview",
     "href": "index.html#internship-overview",
     "title": "Home",
-    "section": "",
-    "text": "During my internship, I worked on several projects related to sea ice data analysis:\n\nMilestone 1: Learned to access and manipulate satellite data\nMilestone 2: Conducted sea ice concentration analysis and visualized spatial-temporal data\nMilestone 3: Analyzed sea ice anomalies and trends in the Arctic\nMilestone 4: Developed a machine learning model to predict sea ice extent",
+    "section": "Internship Overview",
+    "text": "Internship Overview\nDuring my internship, I worked on several projects related to sea ice data analysis:\n\nMilestone 1: Learned to access and manipulate satellite data\nMilestone 2: Conducted sea ice concentration analysis and visualized spatial-temporal data\nMilestone 3: Analyzed sea ice anomalies and trends in the Arctic\nMilestone 4: Developed a machine learning model to predict sea ice extent",
     "crumbs": [
       "Home"
     ]
@@ -351,8 +361,8 @@
     "objectID": "index.html#key-skills-and-tools",
     "href": "index.html#key-skills-and-tools",
     "title": "Home",
-    "section": "",
-    "text": "This internship allowed me to work with:\n\nProgramming: Python, xarray, NumPy, Pandas\nData Visualization: Matplotlib, Seaborn\nMachine Learning: LSTM, Attention Mechanism\nDatasets: Sea Ice Concentration data from NOAA/NSIDC, atmospheric and oceanic datasets",
+    "section": "Key Skills and Tools",
+    "text": "Key Skills and Tools\nThis internship allowed me to work with:\n\nProgramming: Python, xarray, NumPy, Pandas\nData Visualization: Matplotlib, Seaborn\nMachine Learning: LSTM, Attention Mechanism\nDatasets: Sea Ice Concentration data from NOAA/NSIDC, atmospheric and oceanic datasets",
     "crumbs": [
       "Home"
     ]
@@ -361,8 +371,8 @@
     "objectID": "index.html#final-thoughts",
     "href": "index.html#final-thoughts",
     "title": "Home",
-    "section": "",
-    "text": "This internship has been an incredible learning experience, deepening my understanding of climate science and machine learning applications. I look forward to further contributing to the field of satellite data analysis in the future.",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nThis internship has been an incredible learning experience, deepening my understanding of climate science and machine learning applications. I look forward to further contributing to the field of satellite data analysis in the future.",
     "crumbs": [
       "Home"
     ]
