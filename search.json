@@ -4,219 +4,367 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Here are key tools, tutorials, and references I used throughout my internship:\n\nPolarWatch Data Catalog"
-  },
-  {
-    "objectID": "milestones/milestone2.html",
-    "href": "milestones/milestone2.html",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "",
-    "text": "This milestone focused on the analysis and visualization of sea ice concentration data. I explored spatial and temporal trends and developed visualization skills to present the data effectively."
-  },
-  {
-    "objectID": "milestones/milestone2.html#summary",
-    "href": "milestones/milestone2.html#summary",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "",
-    "text": "This milestone focused on the analysis and visualization of sea ice concentration data. I explored spatial and temporal trends and developed visualization skills to present the data effectively."
-  },
-  {
-    "objectID": "milestones/milestone2.html#key-objectives",
-    "href": "milestones/milestone2.html#key-objectives",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "Key Objectives",
-    "text": "Key Objectives\n\nExplore spatial-temporal patterns in sea ice concentration\nDevelop visualizations to communicate findings effectively\nGain familiarity with satellite data visualization techniques"
-  },
-  {
-    "objectID": "milestones/milestone2.html#tasks-and-methods",
-    "href": "milestones/milestone2.html#tasks-and-methods",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "Tasks and Methods",
-    "text": "Tasks and Methods\n\nCalculated weekly means of sea ice concentration for different periods using xarray\nVisualized sea ice concentration using Python’s Matplotlib and Cartopy libraries\nExplored the seasonal variability of sea ice"
-  },
-  {
-    "objectID": "milestones/milestone2.html#results-and-findings",
-    "href": "milestones/milestone2.html#results-and-findings",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "Results and Findings",
-    "text": "Results and Findings\n\nVisualized the changes in sea ice concentration for selected weeks across seasons\nDiscovered significant trends in sea ice extent reduction in the Arctic"
-  },
-  {
-    "objectID": "milestones/milestone2.html#challenges-and-learnings",
-    "href": "milestones/milestone2.html#challenges-and-learnings",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "Challenges and Learnings",
-    "text": "Challenges and Learnings\n\nHandling the large temporal scale of the dataset and optimizing visualizations\nDeveloping clear, informative plot titles and axis labels to improve communication"
-  },
-  {
-    "objectID": "milestones/milestone2.html#next-steps",
-    "href": "milestones/milestone2.html#next-steps",
-    "title": "Milestone 2: Data Analysis and Visualization",
-    "section": "Next Steps",
-    "text": "Next Steps\n\nProceed to the analysis of sea ice anomalies and trends in Milestone 3"
+    "text": "Here are key tools, tutorials, and references I used throughout my internship:\n\nPolarWatch Data Catalog",
+    "crumbs": [
+      "Resources"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html",
     "href": "milestones/milestone4.html",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "",
-    "text": "This milestone involved building a machine learning model to predict sea ice extent using an LSTM network. The focus was on using sea ice thickness and atmospheric variables as predictors."
+    "text": "This milestone involved building a machine learning model to predict sea ice extent using an LSTM network. The focus was on using sea ice thickness and atmospheric variables as predictors.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html#summary",
     "href": "milestones/milestone4.html#summary",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "",
-    "text": "This milestone involved building a machine learning model to predict sea ice extent using an LSTM network. The focus was on using sea ice thickness and atmospheric variables as predictors."
+    "text": "This milestone involved building a machine learning model to predict sea ice extent using an LSTM network. The focus was on using sea ice thickness and atmospheric variables as predictors.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html#key-objectives",
     "href": "milestones/milestone4.html#key-objectives",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "Key Objectives",
-    "text": "Key Objectives\n\nDevelop an LSTM-based model to predict monthly sea ice extent\nIncorporate sea ice thickness data into the model\nEvaluate the performance of the model on historical data"
+    "text": "Key Objectives\n\nDevelop an LSTM-based model to predict monthly sea ice extent\nIncorporate sea ice thickness data into the model\nEvaluate the performance of the model on historical data",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html#tasks-and-methods",
     "href": "milestones/milestone4.html#tasks-and-methods",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "Tasks and Methods",
-    "text": "Tasks and Methods\n\nPreprocessed the sea ice thickness data and merged it with other predictors\nImplemented an LSTM network with an attention mechanism for better feature selection\nEvaluated the model’s performance on a holdout dataset"
+    "text": "Tasks and Methods\n\nPreprocessed the sea ice thickness data and merged it with other predictors\nImplemented an LSTM network with an attention mechanism for better feature selection\nEvaluated the model’s performance on a holdout dataset",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html#results-and-findings",
     "href": "milestones/milestone4.html#results-and-findings",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "Results and Findings",
-    "text": "Results and Findings\n\nSuccessfully developed and trained the LSTM model to predict sea ice extent with a 1-month lead time\nThe model captured significant trends in sea ice extent, although further tuning is needed for improved accuracy."
+    "text": "Results and Findings\n\nSuccessfully developed and trained the LSTM model to predict sea ice extent with a 1-month lead time\nThe model captured significant trends in sea ice extent, although further tuning is needed for improved accuracy.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html#challenges-and-learnings",
     "href": "milestones/milestone4.html#challenges-and-learnings",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "Challenges and Learnings",
-    "text": "Challenges and Learnings\n\nPreprocessing large datasets for machine learning posed challenges in ensuring consistency across variables\nImplementing the attention mechanism was particularly useful for focusing on relevant features"
+    "text": "Challenges and Learnings\n\nPreprocessing large datasets for machine learning posed challenges in ensuring consistency across variables\nImplementing the attention mechanism was particularly useful for focusing on relevant features",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
     "objectID": "milestones/milestone4.html#next-steps",
     "href": "milestones/milestone4.html#next-steps",
     "title": "Milestone 4: Machine Learning for Sea Ice Prediction",
     "section": "Next Steps",
-    "text": "Next Steps\n\nFinalize the model and present findings to the team\nDeploy the project and publish results on the project website"
+    "text": "Next Steps\n\nFinalize the model and present findings to the team\nDeploy the project and publish results on the project website",
+    "crumbs": [
+      "Milestones",
+      "Milestone 4"
+    ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "coast24",
+    "objectID": "milestones/milestone2.html",
+    "href": "milestones/milestone2.html",
+    "title": "Milestone 2: Data Analysis and Visualization",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "This milestone focused on the analysis and visualization of sea ice concentration data. I explored spatial and temporal trends and developed visualization skills to present the data effectively.",
     "crumbs": [
-      "Main"
+      "Milestones",
+      "Milestone 2"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone2.html#summary",
+    "href": "milestones/milestone2.html#summary",
+    "title": "Milestone 2: Data Analysis and Visualization",
+    "section": "",
+    "text": "This milestone focused on the analysis and visualization of sea ice concentration data. I explored spatial and temporal trends and developed visualization skills to present the data effectively.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 2"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone2.html#key-objectives",
+    "href": "milestones/milestone2.html#key-objectives",
+    "title": "Milestone 2: Data Analysis and Visualization",
+    "section": "Key Objectives",
+    "text": "Key Objectives\n\nExplore spatial-temporal patterns in sea ice concentration\nDevelop visualizations to communicate findings effectively\nGain familiarity with satellite data visualization techniques",
+    "crumbs": [
+      "Milestones",
+      "Milestone 2"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone2.html#tasks-and-methods",
+    "href": "milestones/milestone2.html#tasks-and-methods",
+    "title": "Milestone 2: Data Analysis and Visualization",
+    "section": "Tasks and Methods",
+    "text": "Tasks and Methods\n\nCalculated weekly means of sea ice concentration for different periods using xarray\nVisualized sea ice concentration using Python’s Matplotlib and Cartopy libraries\nExplored the seasonal variability of sea ice",
+    "crumbs": [
+      "Milestones",
+      "Milestone 2"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone2.html#results-and-findings",
+    "href": "milestones/milestone2.html#results-and-findings",
+    "title": "Milestone 2: Data Analysis and Visualization",
+    "section": "Results and Findings",
+    "text": "Results and Findings\n\nVisualized the changes in sea ice concentration for selected weeks across seasons\nDiscovered significant trends in sea ice extent reduction in the Arctic",
+    "crumbs": [
+      "Milestones",
+      "Milestone 2"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone2.html#challenges-and-learnings",
+    "href": "milestones/milestone2.html#challenges-and-learnings",
+    "title": "Milestone 2: Data Analysis and Visualization",
+    "section": "Challenges and Learnings",
+    "text": "Challenges and Learnings\n\nHandling the large temporal scale of the dataset and optimizing visualizations\nDeveloping clear, informative plot titles and axis labels to improve communication",
+    "crumbs": [
+      "Milestones",
+      "Milestone 2"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone2.html#next-steps",
+    "href": "milestones/milestone2.html#next-steps",
+    "title": "Milestone 2: Data Analysis and Visualization",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nProceed to the analysis of sea ice anomalies and trends in Milestone 3",
+    "crumbs": [
+      "Milestones",
+      "Milestone 2"
     ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "milestones/milestone3.html",
-    "href": "milestones/milestone3.html",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "",
-    "text": "In this milestone, I focused on analyzing sea ice concentration anomalies and trends for 2023 compared to a climatological baseline. This involved statistical analysis and visualization of anomalies."
-  },
-  {
-    "objectID": "milestones/milestone3.html#summary",
-    "href": "milestones/milestone3.html#summary",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "",
-    "text": "In this milestone, I focused on analyzing sea ice concentration anomalies and trends for 2023 compared to a climatological baseline. This involved statistical analysis and visualization of anomalies."
-  },
-  {
-    "objectID": "milestones/milestone3.html#key-objectives",
-    "href": "milestones/milestone3.html#key-objectives",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "Key Objectives",
-    "text": "Key Objectives\n\nCompare 2023 sea ice concentration with the 2006-2020 climatology\nIdentify and visualize significant anomalies and trends for 2023\nPerform a statistical analysis to detect significant changes"
-  },
-  {
-    "objectID": "milestones/milestone3.html#tasks-and-methods",
-    "href": "milestones/milestone3.html#tasks-and-methods",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "Tasks and Methods",
-    "text": "Tasks and Methods\n\nComputed weekly climatology from daily data (2006-2020)\nIdentified weeks with significant anomalies and visualized them using polar projection maps\nConducted the Mann-Kendall test to determine trends"
-  },
-  {
-    "objectID": "milestones/milestone3.html#results-and-findings",
-    "href": "milestones/milestone3.html#results-and-findings",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "Results and Findings",
-    "text": "Results and Findings\n\nDiscovered significant negative anomalies in certain weeks, indicating reduced sea ice extent compared to the climatology\nVisualized the largest anomalies in sea ice concentration using Cartopy"
-  },
-  {
-    "objectID": "milestones/milestone3.html#challenges-and-learnings",
-    "href": "milestones/milestone3.html#challenges-and-learnings",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "Challenges and Learnings",
-    "text": "Challenges and Learnings\n\nImplementing the Mann-Kendall test for trend detection was a new learning experience\nMapping anomalies clearly required fine-tuning of visualization parameters"
-  },
-  {
-    "objectID": "milestones/milestone3.html#next-steps",
-    "href": "milestones/milestone3.html#next-steps",
-    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
-    "section": "Next Steps",
-    "text": "Next Steps\n\nDevelop a machine learning model to predict sea ice extent in Milestone 4"
+    "text": "Hello, my name is Tien Ly, and I am passionate about climate change and polar research. My work integrates bioinformatics, machine learning, and climate science, allowing me to tackle complex environmental challenges. With a deep interest in using data-driven approaches to understand the impacts of climate change, I aim to contribute to meaningful research that addresses pressing global issues. You can explore my full resume, which includes my contact information, for more details on my experience and background.\nSee my resume\n\nEducation\nI am currently pursuing a Master of Science in Bioinformatics at San Jose State University (2023–2025), where I maintain a 4.0 GPA. Prior to this, I earned a Bachelor of Science in Computer Science from University of California, Davis (2019–2022), graduating with a 3.98 GPA. My coursework includes a blend of computer science and life sciences, with specializations in data structures, machine learning, and bioinformatics.\n\n\nExperience\nWith a strong foundation in both bioinformatics and programming, I have held roles as a Graduate Student Researcher at SJSU Castillo Vardaro Molecular Ecology Lab, where I focus on whole-genome sequencing to identify adaptation signals related to climate change. My work involves developing bioinformatics pipelines for high-throughput sequencing data.\nPreviously, as a Bioinformatics Programmer at UC Davis Genomic Variation Laboratory, I optimized bioinformatics workflows and developed scripts to analyze next-generation sequencing (NGS) data, improving species detection and research efficiency. My experience extends to project management and regulatory compliance as a DFA Engineer at Sierra Circuits, where I reduced rework by 20% through design improvements.\n\n\nSkills\nMy technical skill set includes:\n\nProgramming Languages: Python, R, C/C++, JavaScript, HTML/CSS, SQL\nTools: Git/GitHub, Jupyter Notebook, Visual Studio Code, NCBI databases, RStudio\nFrameworks: Node.js, React\nOperating Systems: Linux, macOS, Windows\n\n\n\nProjects\nI have completed various projects that demonstrate my ability to apply machine learning and bioinformatics techniques, including:\n\nSVM Prediction of BRAF V600E Inhibitors: Developed a highly accurate (98%) SVM model for cancer drug discovery\nBenchmarking Genome Assemblers: Assessed assembly tools for microbial genomes, utilizing high-throughput sequencing data and visualization techniques",
+    "crumbs": [
+      "About Me"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html",
     "href": "milestones/milestone1.html",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "",
-    "text": "In this milestone, I focused on learning the foundational tools and methodologies for working with satellite data. I explored key satellite datasets and became proficient in accessing and manipulating this data."
+    "text": "In this milestone, I focused on learning the foundational tools and methodologies for working with satellite data. I explored key satellite datasets and became proficient in accessing and manipulating this data.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html#summary",
     "href": "milestones/milestone1.html#summary",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "",
-    "text": "In this milestone, I focused on learning the foundational tools and methodologies for working with satellite data. I explored key satellite datasets and became proficient in accessing and manipulating this data."
+    "text": "In this milestone, I focused on learning the foundational tools and methodologies for working with satellite data. I explored key satellite datasets and became proficient in accessing and manipulating this data.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html#key-objectives",
     "href": "milestones/milestone1.html#key-objectives",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "Key Objectives",
-    "text": "Key Objectives\n\nLearn to access satellite data through the ERDDAP data server\nDevelop skills in using Python for data manipulation\nUnderstand the basics of sea ice data and its applications"
+    "text": "Key Objectives\n\nLearn to access satellite data through the ERDDAP data server\nDevelop skills in using Python for data manipulation\nUnderstand the basics of sea ice data and its applications",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html#tasks-and-methods",
     "href": "milestones/milestone1.html#tasks-and-methods",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "Tasks and Methods",
-    "text": "Tasks and Methods\n\nAccessed and explored the NOAA/NSIDC sea ice concentration dataset\nDeveloped Python scripts using the xarray library to handle and manipulate large datasets\nDocumented the process in a Jupyter notebook, including tutorials and examples"
+    "text": "Tasks and Methods\n\nAccessed and explored the NOAA/NSIDC sea ice concentration dataset\nDeveloped Python scripts using the xarray library to handle and manipulate large datasets\nDocumented the process in a Jupyter notebook, including tutorials and examples",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html#results-and-findings",
     "href": "milestones/milestone1.html#results-and-findings",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "Results and Findings",
-    "text": "Results and Findings\n\nSuccessfully accessed sea ice data\nGained insights into the seasonal variability of sea ice properties from 1978 to present"
+    "text": "Results and Findings\n\nSuccessfully accessed sea ice data\nGained insights into the seasonal variability of sea ice properties from 1978 to present",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html#challenges-and-learnings",
     "href": "milestones/milestone1.html#challenges-and-learnings",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "Challenges and Learnings",
-    "text": "Challenges and Learnings\n\nIt was challenging to process the large datasets efficiently on my local machine.\nLearning xarray and ERDDAP was a critical part of this milestone."
+    "text": "Challenges and Learnings\n\nIt was challenging to process the large datasets efficiently on my local machine.\nLearning xarray and ERDDAP was a critical part of this milestone.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
   },
   {
     "objectID": "milestones/milestone1.html#next-steps",
     "href": "milestones/milestone1.html#next-steps",
     "title": "Milestone 1: Foundations of Satellite Data",
     "section": "Next Steps",
-    "text": "Next Steps\n\nMove on to visualizing and analyzing the sea ice concentration data in more detail in Milestone 2"
+    "text": "Next Steps\n\nMove on to visualizing and analyzing the sea ice concentration data in more detail in Milestone 2",
+    "crumbs": [
+      "Milestones",
+      "Milestone 1"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html",
+    "href": "milestones/milestone3.html",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "",
+    "text": "In this milestone, I focused on analyzing sea ice concentration anomalies and trends for 2023 compared to a climatological baseline. This involved statistical analysis and visualization of anomalies.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html#summary",
+    "href": "milestones/milestone3.html#summary",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "",
+    "text": "In this milestone, I focused on analyzing sea ice concentration anomalies and trends for 2023 compared to a climatological baseline. This involved statistical analysis and visualization of anomalies.",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html#key-objectives",
+    "href": "milestones/milestone3.html#key-objectives",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "Key Objectives",
+    "text": "Key Objectives\n\nCompare 2023 sea ice concentration with the 2006-2020 climatology\nIdentify and visualize significant anomalies and trends for 2023\nPerform a statistical analysis to detect significant changes",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html#tasks-and-methods",
+    "href": "milestones/milestone3.html#tasks-and-methods",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "Tasks and Methods",
+    "text": "Tasks and Methods\n\nComputed weekly climatology from daily data (2006-2020)\nIdentified weeks with significant anomalies and visualized them using polar projection maps\nConducted the Mann-Kendall test to determine trends",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html#results-and-findings",
+    "href": "milestones/milestone3.html#results-and-findings",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "Results and Findings",
+    "text": "Results and Findings\n\nDiscovered significant negative anomalies in certain weeks, indicating reduced sea ice extent compared to the climatology\nVisualized the largest anomalies in sea ice concentration using Cartopy",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html#challenges-and-learnings",
+    "href": "milestones/milestone3.html#challenges-and-learnings",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "Challenges and Learnings",
+    "text": "Challenges and Learnings\n\nImplementing the Mann-Kendall test for trend detection was a new learning experience\nMapping anomalies clearly required fine-tuning of visualization parameters",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "milestones/milestone3.html#next-steps",
+    "href": "milestones/milestone3.html#next-steps",
+    "title": "Milestone 3: Sea Ice Concentration Trends and Anomalies",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nDevelop a machine learning model to predict sea ice extent in Milestone 4",
+    "crumbs": [
+      "Milestones",
+      "Milestone 3"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This website showcases my work as a Satellite Data Scientist Intern at NOAA CoastWatch’s PolarWatch Node during the summer of 2024. It highlights my learning experiences and contributions, including analyzing sea ice concentration data, applying machine learning models, and developing tools for satellite data processing.\n\n\nDuring my internship, I worked on several projects related to sea ice data analysis:\n\nMilestone 1: Learned to access and manipulate satellite data\nMilestone 2: Conducted sea ice concentration analysis and visualized spatial-temporal data\nMilestone 3: Analyzed sea ice anomalies and trends in the Arctic\nMilestone 4: Developed a machine learning model to predict sea ice extent\n\n\n\n\nThis internship allowed me to work with:\n\nProgramming: Python, xarray, NumPy, Pandas\nData Visualization: Matplotlib, Seaborn\nMachine Learning: LSTM, Attention Mechanism\nDatasets: Sea Ice Concentration data from NOAA/NSIDC, atmospheric and oceanic datasets\n\n\n\n\nThis internship has been an incredible learning experience, deepening my understanding of climate science and machine learning applications. I look forward to further contributing to the field of satellite data analysis in the future.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#internship-overview",
+    "href": "index.html#internship-overview",
+    "title": "Home",
+    "section": "",
+    "text": "During my internship, I worked on several projects related to sea ice data analysis:\n\nMilestone 1: Learned to access and manipulate satellite data\nMilestone 2: Conducted sea ice concentration analysis and visualized spatial-temporal data\nMilestone 3: Analyzed sea ice anomalies and trends in the Arctic\nMilestone 4: Developed a machine learning model to predict sea ice extent",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#key-skills-and-tools",
+    "href": "index.html#key-skills-and-tools",
+    "title": "Home",
+    "section": "",
+    "text": "This internship allowed me to work with:\n\nProgramming: Python, xarray, NumPy, Pandas\nData Visualization: Matplotlib, Seaborn\nMachine Learning: LSTM, Attention Mechanism\nDatasets: Sea Ice Concentration data from NOAA/NSIDC, atmospheric and oceanic datasets",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#final-thoughts",
+    "href": "index.html#final-thoughts",
+    "title": "Home",
+    "section": "",
+    "text": "This internship has been an incredible learning experience, deepening my understanding of climate science and machine learning applications. I look forward to further contributing to the field of satellite data analysis in the future.",
+    "crumbs": [
+      "Home"
+    ]
   }
 ]
