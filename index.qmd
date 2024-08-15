@@ -1,7 +1,24 @@
 ---
-title: "coast24"
+title: "Home"
 ---
+# Welcome to My Internship Journey
+This website showcases my work as a Satellite Data Scientist Intern at NOAA CoastWatch's PolarWatch Node during the summer of 2024. It highlights my learning experiences and contributions, including analyzing sea ice concentration data, applying machine learning models, and developing tools for satellite data processing.
 
-This is a Quarto website.
+## Internship Overview
+During my internship, I worked on several projects related to sea ice data analysis:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- **Milestone 1**: Learned to access and manipulate satellite data
+- **Milestone 2**: Conducted sea ice concentration analysis and visualized spatial-temporal data
+- **Milestone 3**: Analyzed sea ice anomalies and trends in the Arctic
+- **Milestone 4**: Developed a machine learning model to predict sea ice extent
+
+## Key Skills and Tools
+This internship allowed me to work with:
+
+- **Programming**: Python, xarray, NumPy, Pandas
+- **Data Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: LSTM, Attention Mechanism
+- **Datasets**: Sea Ice Concentration data from NOAA/NSIDC, atmospheric and oceanic datasets
+
+## Final Thoughts
+This internship has been an incredible learning experience, deepening my understanding of climate science and machine learning applications. I look forward to further contributing to the field of satellite data analysis in the future.

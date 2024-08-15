@@ -1,5 +1,28 @@
 ---
-title: "About"
+title: "About Me"
 ---
+Hello, my name is Tien Ly, and I am passionate about climate change and polar research. My work integrates bioinformatics, machine learning, and climate science, allowing me to tackle complex environmental challenges. With a deep interest in using data-driven approaches to understand the impacts of climate change, I aim to contribute to meaningful research that addresses pressing global issues. You can explore my full resume, which includes my contact information, for more details on my experience and background.
 
-About this site
+[See my resume](./files/TienLy_Resume.pdf)
+
+### Education
+I am currently pursuing a Master of Science in Bioinformatics at **San Jose State University** (2023–2025), where I maintain a 4.0 GPA. Prior to this, I earned a Bachelor of Science in Computer Science from **University of California, Davis** (2019–2022), graduating with a 3.98 GPA. My coursework includes a blend of computer science and life sciences, with specializations in data structures, machine learning, and bioinformatics.
+
+### Experience
+With a strong foundation in both bioinformatics and programming, I have held roles as a **Graduate Student Researcher** at **SJSU Castillo Vardaro Molecular Ecology Lab**, where I focus on whole-genome sequencing to identify adaptation signals related to climate change. My work involves developing bioinformatics pipelines for high-throughput sequencing data.
+
+Previously, as a **Bioinformatics Programmer** at **UC Davis Genomic Variation Laboratory**, I optimized bioinformatics workflows and developed scripts to analyze next-generation sequencing (NGS) data, improving species detection and research efficiency. My experience extends to project management and regulatory compliance as a **DFA Engineer** at **Sierra Circuits**, where I reduced rework by 20% through design improvements.
+
+### Skills
+My technical skill set includes:
+
+- Programming Languages: Python, R, C/C++, JavaScript, HTML/CSS, SQL
+- Tools: Git/GitHub, Jupyter Notebook, Visual Studio Code, NCBI databases, RStudio
+- Frameworks: Node.js, React
+- Operating Systems: Linux, macOS, Windows
+
+### Projects
+I have completed various projects that demonstrate my ability to apply machine learning and bioinformatics techniques, including:
+
+- **SVM Prediction of BRAF V600E Inhibitors**: Developed a highly accurate (98%) SVM model for cancer drug discovery
+- **Benchmarking Genome Assemblers**: Assessed assembly tools for microbial genomes, utilizing high-throughput sequencing data and visualization techniques

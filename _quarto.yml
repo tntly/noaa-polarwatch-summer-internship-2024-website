@@ -1,38 +1,33 @@
 project:
   type: website
+  title: "CSU COAST Summer Internship 2024"
 
 website:
-  title: "coast24"
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - about.qmd
+  title: "CSU COAST Summer Internship 2024"
   sidebar:
-    background: "#D9E3E8"
-    logo: "images/coastwatch.png "
-    favicon: images/coastwatch.png 
-    pinned: true
-    align: center
-    tools: 
-      - icon: globe
-        href: https://coastwatch.noaa.gov
-        text: "Openscapes.org"
-      - icon: github
-        href: https://github.com/coastwatch-training
+    background: "#D9E3E4"
     style: "docked"
     search: true
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Main
-      - section: Upcoming Trainings
+        text: "Home"
+      - section: "Milestones"
         contents:
-        - href: courses/afs24.md
-          text: 2024 AFS Workshop
-        - href: courses/seaice24.md      
-          text: 2024 Sea Ice Data Course
-      - section: Past Trainings
+          - href: milestones/milestone1.qmd
+            text: "Milestone 1"
+          - href: milestones/milestone2.qmd
+            text: "Milestone 2"
+          - href: milestones/milestone3.qmd
+            text: "Milestone 3"
+          - href: milestones/milestone4.qmd
+            text: "Milestone 4"
+      - href: resources.qmd
+        text: "Resources"
+      - href: about.qmd
+        text: "About Me"
+  page-navigation: true
+
 
 format:
   html:
@@ -40,5 +35,4 @@ format:
     css: styles.css
     toc: true
 
-
-
+callout-appearance: simple
