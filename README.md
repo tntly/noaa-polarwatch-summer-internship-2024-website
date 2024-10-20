@@ -10,4 +10,4 @@ The website showcases the various milestones and key deliverables I completed du
 - **Milestones**: Summaries of the key stages of the project, including data analysis, modeling, and results
 - **Other Sections**: Additional insights into the tools and resources used throughout the internship
 
-You can view the live website here: [noaa-polarwatch-summer-internship-2024](https://tntly.github.io/noaa-polarwatch-summer-internship-2024/)
+You can view the live website here: [noaa-polarwatch-summer-internship-2024-website](https://tntly.github.io/noaa-polarwatch-summer-internship-2024-website/)
